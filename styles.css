@@ -1,1 +1,25 @@
+nav{
+	display: flex;
+	justify-content: space-around;
+	width: 20%;
+	margin-left: auto;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+}
+nav img{
+	height: 20px;
+}
+main{
+	width: 50%;
+	margin: auto;
 
+}
+input{
+	width: 80%;
+	padding:1em;
+	border-radius: 10px;
+	border: 1px solid grey;
+	
+}
